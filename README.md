@@ -10,11 +10,12 @@
 </p>
 <h2>Minhas redes</h2>
 
-[![Site](https://img.shields.io/badge/site_marcosrodrigues-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcosrodrigues.net/)
+/* [![Site](https://img.shields.io/badge/site_marcosrodrigues-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcosrodrigues.net/) */
 [![Libkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigues-sousa/)
 
+/*
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcossousarodrigues&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousarodrigues&size_weight=0.5&count_weight=0.5)
-
+*/
 <h2>Minhas principais tecnologias</h2>
 <hr>
 <div style="display: inline-block">
@@ -30,17 +31,9 @@
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html5" />
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="html5" />
 </div><br/>
-<i>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</i>
-
-<h2>Projetos</h2>
-
-<hr>
-
-- [Lista de tarefas](https://marcosrodrigues.net/)
-- [Agenda de contatos](https://marcosrodrigues.net/)
-- [Controle de estoque e administração de usuário](https://marcosrodrigues.net/)
 
 <h2>Sobre</h2>
+<hr>
 Meu nome é Marcos Rodrigues, e estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
 
 Durante minha trajetória profissional, tive a oportunidade de aprofundar meu conhecimento nos principais módulos do ERP Protheus da TOTVs, bem como compreender sua arquitetura e administração. Além disso, tenho conhecimento e experiência no desenvolvimento utilizando a linguagem ADVPL.
@@ -56,6 +49,8 @@ Atualmente, desempenho a função de analista/suporte/desenvolvedor no sistema E
 Para qualquer dúvida, sugestão, elogio ou simplesmente para uma conversa, sinta-se à vontade para entrar em contato comigo por e-mail ou mensagem direta. Estou à disposição para ouvir e responder às suas mensagens.
 
 🤝 Vamos nos conectar!
+
+<i>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</i>
 
 #DesenvolvimentoWeb #Aprendizado #Programação #Tecnologia #FrontEnd #BackEnd #NodeJS #ReactJS #VueJS #Laravel #Java #CSharp #MySQL #SQLServer #PostgresSQL #Windows #Linux
 
