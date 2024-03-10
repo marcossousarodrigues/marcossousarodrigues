@@ -1,4 +1,7 @@
-### Olá! Eu sou o Marcos Rodrigues. 👋
+<h2>Quem Sou?</h2>
+<p>
+    Olá! Eu sou o Marcos Rodrigues 👋, um analista/desenvolvedor de sistemas com paixão por programação e tecnologias. 
+</p>
 ### É um prazer recebê-lo em meu perfil. Seja muito bem-vindo!
 
 [![Site](https://img.shields.io/badge/site_marcosrodrigues-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcosrodrigues.net/)
