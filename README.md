@@ -2,14 +2,20 @@
 <p>
     Olá! Eu sou o Marcos Rodrigues 👋, um analista/desenvolvedor de sistemas com paixão por programação e tecnologias. 
 </p>
-### É um prazer recebê-lo em meu perfil. Seja muito bem-vindo!
+<p>
+    É um prazer recebê-lo em meu perfil. Seja muito bem-vindo!
+</p>
+<p>
+    Sinta-se à vontade, te convido a explorar meus projetos. Procuro sempre estar registrando meus aprendizados através de projetos que subo aqui no GitHub, desde projetos simples até     alguns mais complexos. Continue aqui para conhecer mais sobre meus conhecimentos.
+</p>
+<h2>Minhas redes</h2>
 
 [![Site](https://img.shields.io/badge/site_marcosrodrigues-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcosrodrigues.net/)
 [![Libkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigues-sousa/)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcossousarodrigues&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousarodrigues&size_weight=0.5&count_weight=0.5)
 
-### Minhas principais tecnologias
+<h2>Minhas principais tecnologias</h2>
 <hr>
 <div style="display: inline-block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" >
@@ -26,7 +32,7 @@
 </div><br/>
 <i>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</i>
 
-### Projetos
+<h2>Projetos</h2>
 
 <hr>
 
@@ -34,7 +40,7 @@
 - [Agenda de contatos](https://marcosrodrigues.net/)
 - [Controle de estoque e administração de usuário](https://marcosrodrigues.net/)
 
-<h3>Sobre</h3>
+<h2>Sobre</h2>
 Meu nome é Marcos Rodrigues, e estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
 
 Durante minha trajetória profissional, tive a oportunidade de aprofundar meu conhecimento nos principais módulos do ERP Protheus da TOTVs, bem como compreender sua arquitetura e administração. Além disso, tenho conhecimento e experiência no desenvolvimento utilizando a linguagem ADVPL.
@@ -50,11 +56,6 @@ Atualmente, desempenho a função de analista/suporte/desenvolvedor no sistema E
 Para qualquer dúvida, sugestão, elogio ou simplesmente para uma conversa, sinta-se à vontade para entrar em contato comigo por e-mail ou mensagem direta. Estou à disposição para ouvir e responder às suas mensagens.
 
 🤝 Vamos nos conectar!
-
-GitHub e Site pessoal
- - https://github.com/marcossousarodrigues
- - https://marcosrodrigues.net/
-
 
 #DesenvolvimentoWeb #Aprendizado #Programação #Tecnologia #FrontEnd #BackEnd #NodeJS #ReactJS #VueJS #Laravel #Java #CSharp #MySQL #SQLServer #PostgresSQL #Windows #Linux
 
