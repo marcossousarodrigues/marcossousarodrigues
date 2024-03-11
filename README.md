@@ -11,6 +11,7 @@
 <h2>Redes</h2>
 
 [![Libkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigues-sousa/)
+[![Libkedin](https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5511954206292)
 
 <hr>
 
