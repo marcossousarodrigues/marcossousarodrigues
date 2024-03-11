@@ -8,14 +8,14 @@
 <p>
     Sinta-se à vontade, te convido a explorar meus projetos. Procuro sempre estar registrando meus aprendizados através de projetos que subo aqui no GitHub, desde projetos simples até     alguns mais complexos. Continue aqui para conhecer mais sobre meus conhecimentos.
 </p>
-<h2>Minhas redes</h2>
+<h2>Redes</h2>
 
-/* [![Site](https://img.shields.io/badge/site_marcosrodrigues-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcosrodrigues.net/) */
 [![Libkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigues-sousa/)
 
-/*
+<hr>
+
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcossousarodrigues&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousarodrigues&size_weight=0.5&count_weight=0.5)
-*/
+
 <h2>Minhas principais tecnologias</h2>
 <hr>
 <div style="display: inline-block">
