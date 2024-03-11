@@ -35,7 +35,7 @@
 
 <h2>Sobre</h2>
 <hr>
-Meu nome é Marcos Rodrigues, e estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
+Estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
 
 Durante minha trajetória profissional, tive a oportunidade de aprofundar meu conhecimento nos principais módulos do ERP Protheus da TOTVs, bem como compreender sua arquitetura e administração. Além disso, tenho conhecimento e experiência no desenvolvimento utilizando a linguagem ADVPL.
 
