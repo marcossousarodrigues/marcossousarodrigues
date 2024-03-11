@@ -33,6 +33,9 @@
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="html5" />
 </div><br/>
 
+<h2>Projetos</h2>
+<a target="_blank" href="https://marcossousarodrigues.github.io/conversor-de-texto/">Conversor de Texto</a>
+
 <h2>Sobre</h2>
 <hr>
 Estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
