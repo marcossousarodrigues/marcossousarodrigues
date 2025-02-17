@@ -34,12 +34,12 @@
 </div><br/>
 
 <h2>Projetos</h2>
+<a target="_blank" href="https://marcosrodriguessousa.com/">Portfólio</a>
+</p>
 <p>
 <a target="_blank" href="https://skillstecnologicas.com/">Blog Skills Tecnologicas</a>
 </p>
 <p>
-<a target="_blank" href="https://marcossousarodrigues.github.io/conversor-de-texto/">Conversor de Texto Simples em Javascript</a>
-</p>
 
 <h2>Sobre</h2>
 <hr>
