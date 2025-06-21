@@ -1,13 +1,17 @@
 <h2>Quem Sou?</h2>
 <p>
-    Olá! Eu sou o Marcos Rodrigues 👋, um analista/desenvolvedor de sistemas com paixão por programação e tecnologias. 
+Olá! 👋 Sou o Marcos Rodrigues, analista e desenvolvedor de sistemas com paixão por programação e tecnologia.
 </p>
 <p>
-    É um prazer recebê-lo em meu perfil. Seja muito bem-vindo!
+É um prazer ter você por aqui — seja muito bem-vindo(a)!
 </p>
 <p>
-    Sinta-se à vontade, te convido a explorar meus projetos. Procuro sempre estar registrando meus aprendizados através de projetos que subo aqui no GitHub, desde projetos simples até     alguns mais complexos. Continue aqui para conhecer mais sobre meus conhecimentos.
+Fique à vontade para explorar meus projetos. Procuro sempre registrar meus aprendizados por meio dos repositórios que compartilho aqui no GitHub, desde iniciativas mais simples até desafios mais complexos.
 </p>
+<p>
+Siga navegando para conhecer melhor meus conhecimentos e experiências!
+</p>
+
 <h2>Redes</h2>
 
 [![Libkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigues-sousa/)
