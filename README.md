@@ -42,10 +42,6 @@
     <a target="_blank" href="https://skillstecnologicas.com/">Blog Skills Tecnologicas</a>
 </p>
 
-<p>
-    <a target="_blank" href="https://studentpractices.com/">Student Practices</a>
-</p>
-
 <h2>Sobre</h2>
 <hr>
 Estou empolgado em compartilhar meu interesse e paixão pela tecnologia com vocês.
